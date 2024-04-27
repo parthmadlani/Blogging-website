@@ -1,0 +1,22 @@
+img {
+    margin-left: 250px;
+}
+
+body {
+    margin: 20px;
+    background-color: #8fbdf2;
+    font-family: 'Baloo Bhaina 2', cursive;
+
+}
+
+article {
+    margin-left: 250px;
+    padding-top: 20px;
+    margin-right: 250px;
+    background-color: #8fbdf2;
+}
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.contact-content {
+    height: 400px;
+    background-color: #ffffff;
+    margin-top: 32px;
+    padding: 90px;
+    position: relative;
+    height: 82vh;
+    overflow: hidden;
+    background-image: url(/img/img1.jpg);
+
+}
+
+
+footer {
+    height: 50px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(2, 2, 2);
+    background-color: #ffffff;
+    color: #030303;
+    padding: 20px;
+    text-align: center;
+    left: 0;
+    width: 100%;
+}
